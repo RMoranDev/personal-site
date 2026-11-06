@@ -50,8 +50,7 @@ export function Header() {
 
           {/* Status: só desktop */}
           <span className="hidden md:flex items-center gap-2 text-zinc-500 font-mono">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#d9ff00]"></span>
-            BACKEND • JAVA
+            My GitHub
           </span>
 
           {/* Botão hambúrguer: só mobile */}

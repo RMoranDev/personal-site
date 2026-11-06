@@ -7,7 +7,7 @@ export function HeroLeft() {
         <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-[#d9ff00]" />
 
         <span className="font-mono text-[9px] leading-relaxed tracking-[0.12em] text-zinc-400 sm:text-[10px] sm:tracking-widest">
-          CURITIBA - BACKEND - JAVA - SPRING BOOT
+          CURITIBA - PR
         </span>
       </span>
 
